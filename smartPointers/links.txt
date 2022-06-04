@@ -1,0 +1,2 @@
+Smart Pointers learn link :
+https://docs.microsoft.com/en-us/cpp/cpp/smart-pointers-modern-cpp?view=msvc-170
